@@ -7,7 +7,7 @@ This repository contains four data files and one Python analysis script deposite
 | File | Format | Size (bytes) |
 | --- | --- | ---: |
 | [Electronic Nose.xlsx](Electronic%20Nose.xlsx) | Excel (.xlsx) | 13620 |
-| [Machine Learning.CSV](Machine%20Learning.CSV) | CSV | 3826 |
+| [Machine Learning.CSV](Machine%20Learning.CSV) | CSV | 3920 |
 | [Machine Learning.py](Machine%20Learning.py) | Python script | 14815 |
 | [Raw Data.xls](Raw%20Data.xls) | Excel (.xls) | 37376 |
 | [Single sensory data example.xlsx](Single%20sensory%20data%20example.xlsx) | Excel (.xlsx) | 9541 |
